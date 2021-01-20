@@ -14,7 +14,7 @@ new contents like Tailwind CSS and Framer Motion to create beautiful design and 
 - Framer Motion
 - Typescript
 
-### How to run this project:
+### 📲 How to run this project:
 > Step 1: clone this project typing in your terminal `git clone git@github.com:Pedro-Murilo/do-while-nextjs-tailwind-framermotion.git`
 
 > Step 2: now, install the dependencies typing `yarn` and wait install all dependencies
