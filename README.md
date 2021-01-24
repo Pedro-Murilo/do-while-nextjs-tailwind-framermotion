@@ -4,7 +4,7 @@ Application made with NextJS, Framer Motion, Tailwind CSS and Typescript
 
 ## ✨ Final Project
 
-![DoWhile Final Project]('./web/public/img/dowhile.png')
+![DoWhile Final Project](https://github.com/Pedro-Murilo/do-while-nextjs-tailwind-framermotion/blob/main/web/public/img/dowhile.png)
 
 ### 📋 About
 
